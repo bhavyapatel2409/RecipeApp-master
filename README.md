@@ -4,10 +4,9 @@
 In this project i use Android Studio Application to make Recipe App.
 We use kotlin language and xml to make this project.
 
-We use one json file for inputing data of several recipes.
-I download the json file from themealdb website.
 
-Features
+#Features
+
 List of recipe categories
 Search recipes from the network
 Infinite scroll with pagination
@@ -17,3 +16,6 @@ Navigation with deep linking
 Visit original recipe website within a webview
 Transitions with Material Motion and MotionLayout
 Dark theme support
+
+We use one json file for inputing data of several recipes.
+I download the json file from themealdb website
